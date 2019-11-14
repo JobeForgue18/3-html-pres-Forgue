@@ -28,9 +28,9 @@ p, h1, h2, h3, h4, h5 {
   background-size: cover;
 }
 .fs-img-2 {
-    background-image: url("../img/backlit-boys-dark-1250346.jpg");
+    background-image: url("../img/memories.jpg");
 /* Full height */
-  height: 100%;
+  height: 50%;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -39,7 +39,7 @@ p, h1, h2, h3, h4, h5 {
 }
 .fs-img-3 {
     background-image: url("../img/img%20friendship%201.jpg");
-    height: 25%;
+    height: 50%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,7 +58,7 @@ p, h1, h2, h3, h4, h5 {
 .fs-img-5 {
     background-image: url("../img/love.jpg");
 /* Full height */
-  height: 100%;
+  height: 50%;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -66,9 +66,9 @@ p, h1, h2, h3, h4, h5 {
   background-size: cover;
 }
 .fs-img-6 {
-      background-image: url("../img/memories.jpg");
+      background-image: url("../img/Memories%206.jpg");
 /* Full height */
-  height: 100%;
+  height: 50%;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -78,7 +78,7 @@ p, h1, h2, h3, h4, h5 {
 .fs-img-7 { 
     background-image: url("../img/fist.jpg");
 /* Full height */
-  height: 100%;
+  height: 50%;
 
   /* Center and scale the image nicely */
   background-position: center;
